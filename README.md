@@ -370,8 +370,8 @@ Wherever a correction or recategorization was required, the cleaned value was wr
 2. Open `GamesZone_Sales_Performance.twbx` in Tableau Desktop (or Tableau Reader) — filters and dashboards will work out-of-the-box because workbook is packaged.  
 3. To reproduce cleaning steps: open `data_cleaning_log.xlsx` and re-run Excel transformation steps (or re-implement in SQL/Python if desired).
 4. Live Demo (Tableau Public)
-If you do not have Tableau Desktop, you can explore the dashboard interactively on Tableau Public here:  
-https://public.tableau.com/app/profile/ronak.singh7461/viz/Salesperformancedashboardforgameszonecompany/FINALSalesPerformancedashboardcode
+If you do not have Tableau Desktop, you can explore the dashboard interactively on Tableau Public here:
+https://public.tableau.com/views/Salesperformancedashboardforgameszonecompany/FINALSalesPerformancedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ---
 
