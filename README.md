@@ -377,6 +377,6 @@ https://public.tableau.com/views/Salesperformancedashboardforgameszonecompany/FI
 
 ## Contact / where this sits in my portfolio
 This project demonstrates the full analyst workflow: **data hygiene → feature engineering → story-driven visual analytics → actionable business recommendations**. It’s a core project in my portfolio that I discuss in interviews to illustrate how I prioritize business impact and reproducibility.  
-If you'd like a condensed resume bullet or script for explaining this project in a 60–90 second interview answer, I can provide that next.
+
 
 ---
